@@ -199,25 +199,56 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY="pk_live_..."
 
 ## 🧪 Testing
 
+### Unit Tests
 ```bash
-# Run tests
+# Run all tests
 npm test
 
-# Run with coverage
-npm test -- --coverage
+# Run tests in watch mode
+npm run test:watch
 
-# Run E2E tests
-npm run test:e2e
+# Run tests with coverage
+npm run test:coverage
+
+# Type checking
+npm run type-check
 ```
+
+### Test Structure
+- `*.test.ts` or `*.test.tsx` - Test files
+- `jest.config.js` - Jest configuration
+- `jest.setup.js` - Global test setup
+
+### Testing Tools
+- **Jest** - Test runner
+- **Testing Library** - React component testing
+- **ts-jest** - TypeScript support
+- **Mocking** - Next.js router, NextAuth, React Query
 
 ## 📦 Scripts
 
+### Development
 - `npm run dev` - Start development server
-- `npm run build` - Build for production
-- `npm run start` - Start production server
 - `npm run lint` - Run ESLint
+- `npm run type-check` - TypeScript type checking
+- `npm run format` - Format code with Prettier
+- `npm run format:check` - Check code formatting
+
+### Database
 - `npm run db:push` - Push database schema
 - `npm run db:studio` - Open Prisma Studio
+- `npm run db:migrate` - Create and apply migrations
+- `npm run db:seed` - Seed database with sample data
+- `npm run db:reset` - Reset database (development)
+
+### Testing
+- `npm test` - Run tests
+- `npm run test:watch` - Run tests in watch mode
+- `npm run test:coverage` - Run tests with coverage
+
+### Production
+- `npm run build` - Build for production
+- `npm run start` - Start production server
 
 ## 🔒 Security
 
